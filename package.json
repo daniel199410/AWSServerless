@@ -1,0 +1,8 @@
+{
+  "name": "aws-lambda-crud-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "uuid": "^8.3.2"
+  }
+}
